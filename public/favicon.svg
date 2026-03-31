@@ -2,4 +2,5 @@
   <rect width="64" height="64" rx="10" fill="#18181b"/>
   <path d="M14 47L31 14h3l16 33h-8l-3-6H25l-3 6z" fill="#fbbf24"/>
   <path d="M29 34h6l-3-6z" fill="#18181b"/>
+  <image href="/images/Logo-pirncipal.png" height="512" width="512"/>
 </svg>

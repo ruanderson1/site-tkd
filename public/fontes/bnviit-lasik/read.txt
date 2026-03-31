@@ -1,0 +1,45 @@
+
+
+B & K Fontal License Policy
+
+The intellectual property of the 'B & B LASIK' font is located in Medivision Co., Ltd., and the font is provided by B & Liang.
+
+Restrictions
+'B & B Lasik' is not available in companies and brands that provide products and services related to ophthalmology, optician, lens shop, eyewear, and vision correction. It is provided free for other individuals and corporate users and can be used freely.
+
+Prohibition
+It is prohibited to sell 'B & B Lasik' font files (OTF/TTF) for a fee, or randomly modified and modified. However, the following industry and use cases are obviously prohibited. 1. All companies and brands that provide products and services related to ophthalmology, optician, lens shop, eyewear, and vision correction .
+
+Commercial use allowance
+'B & B Lasik' can be used for commercial purposes such as prints, advertisements (online and offline), goods, CI and BI. 1. It is recommended to use as it is, and if it is necessary, it is possible to have a simple deformation within the range that does not harm the font molding . 3. Registration of trademark rights is not possible when used in CI and BI.
+
+Embedding and bundling
+'B & B Lasik' is a copyright guide and a licensed full text. *Immed fonts are not available separately.
+
+Recommended source notation
+If it is difficult to include a license specialty when using 'B & B LASIK', it is recommended to mark the source of 'B & B Lasik'. Ex) “This product has a 'B & B Lasik' provided by 'B & B eye'.”
+
+Image use
+Images such as prints and advertisements (including online) using 'B & B Lasik' can be used for the purpose of collecting and researching our data. If you do not want this, you can request it at any time. (Bnviitdesign@gmail.com)
+Category 	Range 	Whether it is used
+print 	Print, etc. 	○
+Books, magazines, periodicals, newspapers, etc. 	○
+Signboards, crops, etc. 	○
+advertisement 	Offline advertisements such as newspaper advertisements, magazine advertisements, and car advertisements 	○
+Online advertisements such as web pages, advertising banners, e-catalogs 	○
+goods 	Product package, packaging, caketopper 	○
+BI/CI 	Company name, brand name, product name, logo, mark, emblem, etc. 	△
+video 	Video subtitles and thumbnails, educational content, online video lectures, etc. 	○
+Embedding 	Mobile app, website, and fonts on program servers 	△
+etc 	Emoticon, PPT, etc. 	○
+
+Unused range
+Prohibition of ophthalmology , opticians, lens shops, eyewear, and vision correction -related products and services . *If the use of other use is unclear, you must be approved by Medivivision Co., Ltd..
+In case of violation of this license policy, the Medivision Co., Ltd. requires an immediate discontinuation of use and can claim damages.
+
+----------------------
+
+
+Notes from fontmeme.com 
+The above license terms were translted using Google Translate,
+Source: https://www.bnviit.com/main/font_license_popup.html

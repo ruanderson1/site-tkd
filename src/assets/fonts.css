@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('/fontes/Bebas_Neue/BebasNeue-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fontes/Montserrat-Full-Version/Montserrat-Full-Version/Web Fonts/Montserrat/Montserrat-Regular.woff2') format('woff2'),
+       url('/fontes/Montserrat-Full-Version/Montserrat-Full-Version/Web Fonts/Montserrat/Montserrat-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fontes/Montserrat-Full-Version/Montserrat-Full-Version/Web Fonts/Montserrat/Montserrat-Bold.woff2') format('woff2'),
+       url('/fontes/Montserrat-Full-Version/Montserrat-Full-Version/Web Fonts/Montserrat/Montserrat-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Bnviit Lasik';
+  src: url('/fontes/bnviit-lasik/BnviitLasik.ttf') format('truetype'),
+       url('/fontes/bnviit-lasik/BnviitLasikOTF.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

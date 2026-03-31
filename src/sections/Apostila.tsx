@@ -12,10 +12,13 @@ const Apostila: React.FC = () => (
         />
       </div>
       <div>
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-400">Apostila</p>
-        <h2 className="mt-2 text-3xl font-black text-white sm:text-4xl">Apostila Oficial de Taekwondo</h2>
+        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-400">Confira nosso material de Apoio</p>
+        <h2 className="mt-2 text-3xl font-black text-white sm:text-4xl">Apostila Introdutória de Taekwondo</h2>
         <p className="mt-4 text-zinc-300">
-          Conteúdo organizado para acelerar o aprendizado dos fundamentos, técnicas e princípios: Cortesia, Integridade, Perseverança, Autocontrole e Espírito Indomável.
+          Nossa apostila introdutória para faixas brancas, te coloca no mundo do Taekwondo, ensinando a história, terminologias em coreano e o básico para começar!
+        </p>
+        <p className="mt-4 text-zinc-300">
+          Garanta já sua apostila.<br />Acompanhe nossos treinos nas redes sociais.
         </p>
         <p className="mt-4 border-l-2 border-amber-400 pl-4 text-lg font-semibold text-amber-300">
           Base sólida para evolução real.

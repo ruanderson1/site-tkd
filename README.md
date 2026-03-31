@@ -88,7 +88,7 @@ src/
 
 ## ⚙️ Conteúdo editável
 
-As informações principais do site (nome do dojo, links, endereço, imagens, vídeos e textos estruturados) estão centralizadas em:
+As informações principais do site (nome do Dojang, links, endereço, imagens, vídeos e textos estruturados) estão centralizadas em:
 
 - `src/constants/site.ts`
 

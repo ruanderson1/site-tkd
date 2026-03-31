@@ -9,7 +9,7 @@ import Galeria from './sections/Galeria';
 import Contato from './sections/Contato';
 import WhatsAppButton from './components/WhatsAppButton';
 import TreinoVideo from './sections/TreinoVideo';
-import { dojoName } from './constants/site';
+import { dojoName as dojangName } from './constants/site';
 
 
 function App() {
@@ -25,7 +25,7 @@ function App() {
         <TreinoVideo />
         <Contato />
       </main>
-      <Footer dojoName={dojoName} />
+      <Footer dojoName={dojangName} />
       <WhatsAppButton />
     </div>
   );

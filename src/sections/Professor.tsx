@@ -13,10 +13,10 @@ const Professor: React.FC = () => (
         <div className="absolute inset-0 bg-gradient-to-t from-amber-500/25 to-zinc-950/20" />
       </div>
       <div>
-        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-400">Professor</p>
-        <h2 className="mt-2 text-3xl font-black text-white sm:text-4xl">{professorName}</h2>
+        <p className="text-sm font-semibold uppercase tracking-[0.2em] text-amber-400">Conheça o Mestre</p>
+        <h2 className="mt-2 text-3xl font-black text-white sm:text-4xl">Rodrigo Oliveira</h2>
         <p className="mt-4 text-zinc-300">
-          Com mais de 40 anos de experiência em Taekwondo, o Professor Rodrigo dedica-se a formar atletas e cidadãos baseando-se nos princípios fundamentais: Cortesia, Integridade, Perseverança, Autocontrole e Espírito Indomável. Sua metodologia combina rigor técnico, pedagogia estruturada e formação de caráter, garantindo que cada aluno evolua com disciplina, respeito e propósito.
+          Muito prazer, sou Rodrigo Oliveira, faixa preta 4° DAN, tenho mais de 40 anos de experiência com Taekwondo: heptacampeão carioca e campeão da copa do Brasil de taekwondo, formei faixas pretas e coloridas e espero contribuir na sua trajetória no Taekwondo!
         </p>
         <div className="mt-6 grid gap-3 sm:grid-cols-3">
           <div className="rounded-md border border-zinc-800 bg-zinc-900 p-4">
@@ -32,14 +32,14 @@ const Professor: React.FC = () => (
             <p className="mt-1 font-bold text-white">Exames e competições</p>
           </div>
         </div>
-        <a
+        {/* <a
           href={whatsappLink}
           target="_blank"
           rel="noreferrer"
           className="mt-7 inline-flex rounded-md bg-amber-400 px-6 py-3 text-sm font-extrabold uppercase tracking-wide text-zinc-950 transition hover:bg-amber-300"
         >
           Falar com o professor
-        </a>
+        </a> */}
       </div>
     </div>
   </section>
