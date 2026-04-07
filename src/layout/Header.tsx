@@ -1,6 +1,6 @@
 import React from 'react';
 import { navItems } from '../constants/site';
-
+// dojangName
 const Header: React.FC = () => (
   <header className="fixed inset-x-0 top-0 z-50 border-b border-zinc-800/90 bg-zinc-950/90 backdrop-blur">
     <div className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8 flex-wrap gap-4 lg:ml-15 lg:mr-0">
