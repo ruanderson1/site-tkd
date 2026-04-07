@@ -1,5 +1,5 @@
 import React from 'react';
-import { dojoName as dojangName, navItems } from '../constants/site';
+import { navItems } from '../constants/site';
 
 const Header: React.FC = () => (
   <header className="fixed inset-x-0 top-0 z-50 border-b border-zinc-800/90 bg-zinc-950/90 backdrop-blur">
