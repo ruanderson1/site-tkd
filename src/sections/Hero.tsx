@@ -1,6 +1,6 @@
 import React from 'react';
-import { heroImage, dojangName, whatsappLink } from '../constants/site';
-
+import { heroImage, whatsappLink } from '../constants/site';
+// dojangName
 const Hero: React.FC = () => (
   <section
     id="inicio"
