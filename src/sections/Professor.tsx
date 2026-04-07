@@ -1,6 +1,6 @@
 import React from 'react';
-import { professorImage, professorName, faixa, experienceYears, whatsappLink } from '../constants/site';
-
+import { professorImage, professorName, faixa, experienceYears } from '../constants/site';
+// whatsappLink
 const Professor: React.FC = () => (
   <section id="professor" className="scroll-mt-24 bg-zinc-950 px-4 py-16 sm:px-6 lg:px-8">
     <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-2">
