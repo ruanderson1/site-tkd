@@ -2,13 +2,13 @@ import React from 'react';
 import { professorImage, professorName, faixa, experienceYears } from '../constants/site';
 // whatsappLink
 const Professor: React.FC = () => (
-  <section id="professor" className="scroll-mt-24 bg-zinc-950 px-4 py-16 sm:px-6 lg:px-8">
-    <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-2">
+  <section id="professor" className="scroll-mt-24 bg-zinc-950 px-4 py-10 sm:px-6 lg:px-8 lg:py-12">
+    <div className="mx-auto grid max-w-7xl items-center gap-6 lg:grid-cols-2">
       <div className="relative mx-auto w-full max-w-md overflow-hidden rounded-xl border border-zinc-800 lg:mx-0">
         <img
           src={professorImage}
           alt={`Professor ${professorName}`}
-          className="h-[380px] w-full object-cover object-top sm:h-[460px]"
+          className="h-[330px] w-full object-cover object-top sm:h-[400px]"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-amber-500/25 to-zinc-950/20" />
       </div>
