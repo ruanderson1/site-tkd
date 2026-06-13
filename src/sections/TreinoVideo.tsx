@@ -1,11 +1,26 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { treinoVideos } from '../constants/site';
 
 const TreinoVideo: React.FC = () => {
   const [showAll, setShowAll] = useState(false);
-  // Detecta se está em tela pequena (mobile)
-  const isMobile = typeof window !== 'undefined' && window.innerWidth < 640;
-  const initialCount = isMobile ? 2 : 4;
+  const [isDesktop, setIsDesktop] = useState(false);
+
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(min-width: 1024px)');
+
+    const updateViewport = () => {
+      setIsDesktop(mediaQuery.matches);
+    };
+
+    updateViewport();
+    mediaQuery.addEventListener('change', updateViewport);
+
+    return () => {
+      mediaQuery.removeEventListener('change', updateViewport);
+    };
+  }, []);
+
+  const initialCount = isDesktop ? 4 : 2;
   const visibleVideos = showAll ? treinoVideos : treinoVideos.slice(0, initialCount);
 
   return (
